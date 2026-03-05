@@ -7,27 +7,16 @@
 ## 📱 Features
 
 * 🚨 **Emergency Alert**
-
   * Instantly send distress alerts to predefined emergency contacts.
-
 * 📍 **Live Location Sharing**
-
   * Automatically share the user's current GPS location during emergencies.
-
 * 📞 **Quick Call Support**
-
   * Directly call emergency contacts or services from within the app.
-
 * 🔔 **Push Notifications**
-
   * Notify registered contacts when an emergency alert is triggered.
-
 * 👤 **User Profile Management**
-
   * Manage personal details and emergency contact list.
-
 * 🔐 **Secure Data Handling**
-
   * User data and alerts are securely processed.
 
 ---
@@ -90,3 +79,4 @@ Developed by **Ramu Garkini**
 ## 📄 License
 
 This project is for educational and research purposes.
+
